@@ -1,0 +1,3 @@
+# Network Isolation
+
+Only SAME_HOST_NETWORK and MANAGED_PROFILE_POLICY are real here. Other backends return FEATURE_OEM_REQUIRED / FEATURE_CARRIER_REQUIRED.
